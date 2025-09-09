@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+*.lcov
+
+# Build outputs
+dist/
+build/
+.cache/
+.next/
+
+# dotenv environment files
+# .env
+.env.*.local
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+.idea/
+.vscode/
+*.iml
+
+# Lock files (optional: ignore if you want consistent installs)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
